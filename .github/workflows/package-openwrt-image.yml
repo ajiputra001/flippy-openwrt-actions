@@ -17,7 +17,7 @@ on:
         type: choice
         options:
           - all
-          - s922x_s905x3_s905x2_s912_s905d_s905
+          - s922x_s905x4_s905x3_s905x2_s912_s905d_s905
           - ak88
           - beikeyun
           - cm3
@@ -47,6 +47,7 @@ on:
           - s905d
           - s905x2
           - s905x3
+          - s905x4
           - s912
           - s922x
           - s922x-n2
